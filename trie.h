@@ -2,7 +2,7 @@
 using namespace std;
 
 class trie{ 
-  string name3; 
+  string name; 
   
 
 
