@@ -10,6 +10,9 @@ class trie{
   void search(string target) {
 	  return;
   }
+  
+  void find(){
 
+  }
 
 };
