@@ -7,8 +7,8 @@ class trie{
   // constructor
   trie(string newName=""): name(newName){};
   
-  bool search(string target) {
-	  return true;
+  void search(string target) {
+	  return;
   }
 
 
