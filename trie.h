@@ -1,8 +1,8 @@
 #include <string>
 using namespace std;
 
-class trie{
-  string name1;
+class trie{ 
+  string name3; 
   
 
 
